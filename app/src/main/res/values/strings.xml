@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tip Counter Yates</string>
+    <string name="text_check_total">Check Amount</string>
+    <string name="text_num_people">Number of People</string>
+    <string name="text_tip_percent">Tip Percent</string>
+    <string name="text_tip_15">15%</string>
+    <string name="text_tip_18">18%</string>
+    <string name="text_tip_20">20%</string>
+    <string name="text_tip_custom">Custom</string>
+    <string name="text_enter_tip_percent">Enter Tip Percent</string>
+    <string name="text_check_total_with_tip">Check Total: </string>
+    <string name="text_tip_per_person">Tip Per Person: </string>
+    <string name="text_tip_amount">Total Tip Amount: </string>
+</resources>
